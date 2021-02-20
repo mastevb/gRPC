@@ -2,10 +2,10 @@ package main
 
 import (
 	"context"
-	"errors"
+	//"errors"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
-	"log"
+	//"log"
 
 	"github.com/gofrs/uuid"
 	pb "productinfo/service/ecommerce"
